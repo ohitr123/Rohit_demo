@@ -9,6 +9,7 @@ looking for DA
 ok I will check out
 
 I live in Hyderabad.
+my fav team is srh.
 
 I love to play cricket.
 Run Python File in Terminal
